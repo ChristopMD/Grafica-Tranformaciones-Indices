@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\user christopher\documentos\visual studio 2017\projects\semana5_tranformaciones\project1\main.cpp(136): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\user christopher\documentos\visual studio 2017\projects\semana5_tranformaciones\project1\main.cpp(137): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\user christopher\documentos\visual studio 2017\projects\semana5_tranformaciones\project1\main.cpp(185): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\user christopher\documentos\visual studio 2017\projects\semana5_tranformaciones\project1\main.cpp(222): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Project1.vcxproj -> D:\User Christopher\Documentos\Visual Studio 2017\Projects\Semana5_tranformaciones\Debug\Project1.exe
